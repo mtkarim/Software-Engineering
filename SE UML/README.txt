@@ -1,4 +1,4 @@
-FILES:
+FILES in zip:
 
 main.cpp		
 README.txt
